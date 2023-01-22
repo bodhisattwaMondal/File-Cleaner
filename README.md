@@ -15,13 +15,13 @@ in the specified directory.
 
 3. os.path.exists('directory name')
 
-4.os.path.splitext(file)[1] -> To extract the extention of a file
+4. os.path.splitext(file)[1] -> To extract the extention of a file
 
 5. os.path.isfile(file) -> It is a file or folder
 
 6. os.replace(file) -> To move file
 
 NOTE: 
-In the Test folder I've provided some diff. types of files to test the code. 
-Just cut them from the Test folder to the outer dir. where main.py is located.
-And dlt the Test folder, Run the code.
+* In the Test folder I've provided some diff. types of files to test the code. 
+* Just cut them from the Test folder to the outer dir. where main.py is located.
+* And dlt the Test folder, Run the code.
